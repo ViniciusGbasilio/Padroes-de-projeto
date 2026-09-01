@@ -1,4 +1,4 @@
-README - Sistema de Calculadora Orientado a Objetos
+
 Aluno - Matrícula SUAP: 202211250005
 =====================================================
 
