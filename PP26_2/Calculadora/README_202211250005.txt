@@ -1,0 +1,31 @@
+README - Sistema de Calculadora Orientado a Objetos
+Aluno - Matrícula SUAP: 202211250005
+=====================================================
+
+1) VERSÃO DO COMPILADOR JAVA (JDK)
+javac 25.0.2
+
+2) IDE UTILIZADA
+Visual Studio Code 1.135.0
+
+3) SISTEMA OPERACIONAL
+Windows 10, versão 22H2 (Compilação 19045.6466)
+
+4) TIPO DE BIBLIOTECA GERADA PARA A CALCULADORA
+.jar (Calculadora_202211250005.jar)
+
+5) DESCRIÇÃO DOS MÉTODOS DA CLASSE Calculadora_202211250005
+
+- public double somar(double a, double b)
+  Retorna o resultado da soma (a + b).
+
+- public double subtrair(double a, double b)
+  Retorna o resultado da subtração (a - b).
+
+- public double multiplicar(double a, double b)
+  Retorna o resultado da multiplicação (a * b).
+
+- public double dividir(double a, double b)
+  Retorna o resultado da divisão (a / b). Caso "b" seja igual a
+  zero, lança IllegalArgumentException com a mensagem
+  "O divisor nao pode ser zero."
